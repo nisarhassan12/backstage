@@ -9,6 +9,7 @@
 ![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 [![Codecov](https://img.shields.io/codecov/c/github/spotify/backstage)](https://codecov.io/gh/spotify/backstage)
 [![](https://img.shields.io/npm/v/@backstage/core?label=Version)](https://github.com/spotify/backstage/releases)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
 ## What is Backstage?
 
